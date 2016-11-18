@@ -4,7 +4,7 @@
     <body>
          <h1 align ="center">Welcome to the Pyladies Conference Website!!!!</h1>
          <div style="float: left">
-         <table width="10%">
+         <table>
          	<tr>
          		<td>Home</td>
          	</tr>
@@ -32,7 +32,7 @@
          </table>
          </div>
          <div style="float: left">
-         <table width="90%">
+         <table>
          	<tr>
          		<td>
          		<p>
