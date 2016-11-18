@@ -3,6 +3,7 @@
     </title>
     <body>
          <h1 align ="center">Welcome to the Pyladies Conference Website!!!!</h1>
+         <div style="float: left">
          <table width="10%">
          	<tr>
          		<td>Home</td>
@@ -29,6 +30,8 @@
          		<td>COC</td>
          	</tr>
          </table>
+         </div>
+         <div style="float: left">
          <table width="90%">
          	<tr>
          		<td>
@@ -38,5 +41,6 @@
          		</td>
          	</tr>
          </table>
+         <div>
     </body>
 </html>
