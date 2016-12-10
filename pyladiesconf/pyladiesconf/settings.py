@@ -25,7 +25,7 @@ SECRET_KEY = '79#y=8l(_wi^(-(m4qa-&1st3qb9l11+r5k%a5@h4j$*9()g95'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://conference.pyladies.com']
 
 
 # Application definition
