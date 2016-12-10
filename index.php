@@ -2,7 +2,8 @@
     <title> PyLadies Conference Website
     </title>
     <body>
-         <h2 align ="center">Welcome to the Pyladies Conference Website!!!!</h2>
+         <h3 align ="center">Welcome to the Pyladies Conference Website</h3>
+	 <hr>
          <div style="float: left">
          <table>
          	<tr>
